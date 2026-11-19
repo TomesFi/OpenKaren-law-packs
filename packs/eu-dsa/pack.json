@@ -1,0 +1,27 @@
+{
+  "id": "eu-dsa",
+  "kind": "eu",
+  "country": null,
+  "title": "Digital Services Act",
+  "language": "en",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "dsa",
+      "name": "Digital Services Act",
+      "aliases": [
+        "DSA",
+        "Regulation (EU) 2022/2065"
+      ],
+      "officialId": "32022R2065",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj"
+    }
+  ],
+  "source": {
+    "name": "Publications Office of the European Union",
+    "url": "https://publications.europa.eu/resource/celex/32022R2065",
+    "licence": "Reuse authorised, source acknowledged (Commission Decision 2011/833/EU)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from Publications Office of the European Union on 2026-11-18. Only the official publication is legally binding."
+}

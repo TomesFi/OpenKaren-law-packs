@@ -1,0 +1,115 @@
+{
+  "generated": "2026-11-19",
+  "packs": [
+    {
+      "id": "at",
+      "kind": "country",
+      "country": "AT",
+      "title": "Austria: data protection, spam and cookie laws",
+      "language": "de",
+      "version": "2026-11-18",
+      "size": 335805,
+      "sha256": "9696753ab92ad9a9a7ca16a82658d4a04fcef752104c08446ca10fe03689c82e",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/at-2026-11-18/at-2026-11-18.zip"
+    },
+    {
+      "id": "de",
+      "kind": "country",
+      "country": "DE",
+      "title": "Germany: data protection, spam and cookie laws",
+      "language": "de",
+      "version": "2026-11-18",
+      "size": 163489,
+      "sha256": "aa79a65c9b62b38f155b93072c9aaad5dfc77b9da2d6fb05822dbbe73262f9e3",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/de-2026-11-18/de-2026-11-18.zip"
+    },
+    {
+      "id": "eu-ai-act",
+      "kind": "eu",
+      "country": null,
+      "title": "AI Act",
+      "language": "en",
+      "version": "2026-11-18",
+      "size": 212648,
+      "sha256": "09c6c2c6fd6d9498a532eac2aa31c410d95eb45d728edd426cd737ff7f7705e9",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/eu-ai-act-2026-11-18/eu-ai-act-2026-11-18.zip"
+    },
+    {
+      "id": "eu-data-act",
+      "kind": "eu",
+      "country": null,
+      "title": "Data Act",
+      "language": "en",
+      "version": "2026-11-18",
+      "size": 109416,
+      "sha256": "80c59cb77efc7ab2e209a8feb12a643115c10c8f0db39fe68459a9836f4a2816",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/eu-data-act-2026-11-18/eu-data-act-2026-11-18.zip"
+    },
+    {
+      "id": "eu-dsa",
+      "kind": "eu",
+      "country": null,
+      "title": "Digital Services Act",
+      "language": "en",
+      "version": "2026-11-18",
+      "size": 159153,
+      "sha256": "7d1b8cdc22eef295d79d52624e9edb106fd7bd26ae135bc21b1ea7840b77f7ff",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/eu-dsa-2026-11-18/eu-dsa-2026-11-18.zip"
+    },
+    {
+      "id": "eu-eprivacy",
+      "kind": "eu",
+      "country": null,
+      "title": "ePrivacy Directive (spam and cookies)",
+      "language": "en",
+      "version": "2026-11-18",
+      "size": 18193,
+      "sha256": "a0d3fe6d737788ec25d1499f8d91cd137053c96f4a143e2ef7b4e93802dd1e57",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/eu-eprivacy-2026-11-18/eu-eprivacy-2026-11-18.zip"
+    },
+    {
+      "id": "eu-gdpr",
+      "kind": "eu",
+      "country": null,
+      "title": "General Data Protection Regulation (GDPR)",
+      "language": "en",
+      "version": "2026-11-18",
+      "size": 143039,
+      "sha256": "9030a46e4230251e37ee897a9a00576755f2075e04c381503a8f312af2661ae9",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/eu-gdpr-2026-11-18/eu-gdpr-2026-11-18.zip"
+    },
+    {
+      "id": "fi",
+      "kind": "country",
+      "country": "FI",
+      "title": "Finland: data protection, spam and cookie laws",
+      "language": "fi",
+      "version": "2026-11-18",
+      "size": 340859,
+      "sha256": "2ffa14a05512bfd368221521f15010a0f19633912acc83203d1c2ef7a5118b6a",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/fi-2026-11-18/fi-2026-11-18.zip"
+    },
+    {
+      "id": "nl",
+      "kind": "country",
+      "country": "NL",
+      "title": "Netherlands: data protection, spam and cookie laws",
+      "language": "nl",
+      "version": "2026-11-18",
+      "size": 304142,
+      "sha256": "9b73925cf54907546920680ed8cbfaf0fdbc05ebe0ffc0c4017b9dcda10d97a0",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/nl-2026-11-18/nl-2026-11-18.zip"
+    },
+    {
+      "id": "se",
+      "kind": "country",
+      "country": "SE",
+      "title": "Sweden: data protection, spam and cookie laws",
+      "language": "sv",
+      "version": "2026-11-18",
+      "size": 203056,
+      "sha256": "d705e3b5e7707d3ce9c112a15bc329a037f0cf7019a0bf102f5960d4c857a0f8",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/se-2026-11-18/se-2026-11-18.zip"
+    }
+  ]
+}

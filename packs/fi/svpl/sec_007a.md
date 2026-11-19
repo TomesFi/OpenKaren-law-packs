@@ -1,0 +1,5 @@
+# Laki sähköisen viestinnän palveluista 7 a § — Vertaisarviointimenettely
+
+Liikenne- ja viestintäministeriön on ilmoitettava Euroopan komission radiotaajuuspolitiikkaa käsittelevälle ryhmälle tarkoituksesta myöntää 8 §:ssä tarkoitetussa menettelyssä verkkotoimilupa yhdenmukaistetuilla radiotaajuuksilla toimivalle matkaviestinverkolle. Ilmoitus on tehtävä ennen verkkotoimiluvan julistamista haettavaksi. Liikenne- ja viestintäministeriön on samalla ilmoitettava, pyytääkö se ryhmää järjestämään vertaisarviointimenettelyn.
+
+Jos vertaisarviointimenettely järjestetään liikenne- ja viestintäministeriön pyynnöstä tai poikkeuksellisesti radiotaajuuspolitiikkaa käsittelevän ryhmän aloitteesta, liikenne- ja viestintäministeriön tulee perustella, kuinka 1 momentissa tarkoitettu verkkotoimiluvan myöntäminen edistäisi Euroopan unionin yleisiä ja taajuuspoliittisia tavoitteita. Liikenne- ja viestintäministeriö voi pyytää radiotaajuuspolitikkaa käsittelevältä ryhmältä lausunnon antamastaan selvityksestä.

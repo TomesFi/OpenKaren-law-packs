@@ -1,0 +1,27 @@
+{
+  "id": "eu-eprivacy",
+  "kind": "eu",
+  "country": null,
+  "title": "ePrivacy Directive (spam and cookies)",
+  "language": "en",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "eprivacy",
+      "name": "ePrivacy Directive",
+      "aliases": [
+        "Directive 2002/58/EC",
+        "Directive on privacy and electronic communications"
+      ],
+      "officialId": "32002L0058",
+      "url": "https://eur-lex.europa.eu/eli/dir/2002/58/oj"
+    }
+  ],
+  "source": {
+    "name": "Publications Office of the European Union",
+    "url": "https://publications.europa.eu/resource/celex/02002L0058-20091219",
+    "licence": "Reuse authorised, source acknowledged (Commission Decision 2011/833/EU)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from Publications Office of the European Union on 2026-11-18. Only the official publication is legally binding."
+}

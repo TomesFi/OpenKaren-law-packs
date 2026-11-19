@@ -1,0 +1,37 @@
+{
+  "id": "at",
+  "kind": "country",
+  "country": "AT",
+  "title": "Austria: data protection, spam and cookie laws",
+  "language": "de",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "dsg",
+      "name": "Datenschutzgesetz",
+      "aliases": [
+        "DSG",
+        "Austrian Data Protection Act (DSG)"
+      ],
+      "officialId": "10001597",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597"
+    },
+    {
+      "id": "tkg",
+      "name": "Telekommunikationsgesetz 2021",
+      "aliases": [
+        "TKG 2021",
+        "Austrian Telecommunications Act 2021"
+      ],
+      "officialId": "20011678",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011678"
+    }
+  ],
+  "source": {
+    "name": "RIS (Rechtsinformationssystem des Bundes, Bundeskanzleramt)",
+    "url": "https://ogd.ris.bka.gv.at/",
+    "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from RIS (Rechtsinformationssystem des Bundes, Bundeskanzleramt) on 2026-11-18. Only the official publication is legally binding."
+}

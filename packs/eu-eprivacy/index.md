@@ -1,0 +1,25 @@
+# ePrivacy Directive (spam and cookies)
+
+- art_001.md | Article 1 | Scope and aim | This section defines the purpose and scope of the ePrivacy Directive, including its relationship to other laws and exclusions.
+- art_002.md | Article 2 | Definitions | This section defines key terms used in the ePrivacy Directive, including 'user,' 'traffic data,' 'location data,' and others.
+- art_003.md | Article 3 | Services concerned | This part explains which electronic communication services and networks fall under the ePrivacy Directive.
+- art_004.md | Article 4 | Security of processing | This part covers the security requirements for electronic communications services, including breach notification obligations and compliance checks.
+- art_005.md | Article 5 | Confidentiality of the communications | This part covers the rules on keeping electronic communications confidential and the conditions for storing or accessing data on users' devices.
+- art_006.md | Article 6 | Traffic data | This part explains how and when traffic data (like call records or internet usage logs) can be processed, stored, or erased by communication service providers.
+- art_007.md | Article 7 | Itemised billing | This part covers the rules on itemised billing under the ePrivacy Directive, including subscriber rights and privacy protections for calling users.
+- art_008.md | Article 8 | Presentation and restriction of calling and connected line identification | This part covers the rules for managing caller ID display and blocking in phone calls, including options for both callers and recipients.
+- art_009.md | Article 9 | Location data other than traffic data | This section explains the rules for processing location data (excluding traffic data) for users of public communication networks or services, including consent requirements and user rights.
+- art_010.md | Article 10 | Exceptions | This section explains the limited circumstances under which providers can override caller ID blocking or process location data without consent, such as for tracing malicious calls or handling emergencies.
+- art_011.md | Article 11 | Automatic call forwarding | This part covers the rules requiring providers to let users easily and free of charge disable automatic call forwarding to their number.
+- art_012.md | Article 12 | Directories of subscribers | This part explains rules for public directories of subscribers, including consent, data control, and special cases for non-natural persons.
+- art_013.md | Article 13 | Unsolicited communications | This part covers the rules on unsolicited marketing communications, including when consent is required and how recipients can opt out.
+- art_014.md | Article 14 | Technical features and standardisation | This part covers rules on technical requirements and standardization for electronic communication equipment to avoid market barriers while ensuring data protection compatibility.
+- art_014a.md | Article 14a | Committee procedure | This part explains how the European Commission will be supported by a specific committee and the procedural rules that apply when decisions are made under this article.
+- art_015.md | Article 15 | Application of certain provisions of Directive 95/46/EC | This part explains when and how EU member states can restrict certain privacy rights for national security or law enforcement purposes.
+- art_015a.md | Article 15a | Implementation and enforcement | This part covers how EU member states must enforce penalties for breaking ePrivacy rules and the powers given to national authorities to investigate and stop violations.
+- art_016.md | Article 16 | Transitional arrangements | This section explains temporary rules for existing directories and subscriber data before new privacy laws take full effect.
+- art_017.md | Article 17 | Transposition | This part covers the timeline and requirements for EU Member States to transpose the ePrivacy Directive into national law by October 31, 2003.
+- art_018.md | Article 18 | Review | This part covers the European Commission's obligation to review the ePrivacy Directive and report on its impact, including possible amendments.
+- art_019.md | Article 19 | Repeal | This part covers the repeal of an older privacy directive and how references to it should be interpreted under the new directive.
+- art_020.md | Article 20 | Entry into force | This part covers when the ePrivacy Directive takes effect.
+- art_021.md | Article 21 | Addressees | This part states that the Directive is addressed to the Member States.

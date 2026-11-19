@@ -1,0 +1,3 @@
+# Laki sähköisen viestinnän palveluista 271 c § — Julkisesti säännellyn satelliittipalvelun tarjoajan henkilöstö
+
+Julkisesti säännellyn satelliittipalvelun tarjoajan palveluksessa olevalta henkilöltä, joka suorittaa julkisesti säänneltyyn satelliittipalveluun liittyviä tehtäviä, vaaditaan tehtävien edellyttämää nuhteettomuutta ja luotettavuutta, mikä voidaan tarvittaessa selvittää turvallisuusselvityslain (726/2014) mukaisesti. Julkisesti säännellyn satelliittipalvelun tarjoajan palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan julkisesti säänneltyyn satelliittipalveluun liittyviä tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.

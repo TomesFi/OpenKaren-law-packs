@@ -1,0 +1,26 @@
+{
+  "id": "eu-data-act",
+  "kind": "eu",
+  "country": null,
+  "title": "Data Act",
+  "language": "en",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "data-act",
+      "name": "Data Act",
+      "aliases": [
+        "Regulation (EU) 2023/2854"
+      ],
+      "officialId": "32023R2854",
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/2854/oj"
+    }
+  ],
+  "source": {
+    "name": "Publications Office of the European Union",
+    "url": "https://publications.europa.eu/resource/celex/32023R2854",
+    "licence": "Reuse authorised, source acknowledged (Commission Decision 2011/833/EU)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from Publications Office of the European Union on 2026-11-18. Only the official publication is legally binding."
+}

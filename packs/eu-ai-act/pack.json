@@ -1,0 +1,27 @@
+{
+  "id": "eu-ai-act",
+  "kind": "eu",
+  "country": null,
+  "title": "AI Act",
+  "language": "en",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "ai-act",
+      "name": "AI Act",
+      "aliases": [
+        "Artificial Intelligence Act",
+        "Regulation (EU) 2024/1689"
+      ],
+      "officialId": "32024R1689",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+    }
+  ],
+  "source": {
+    "name": "Publications Office of the European Union",
+    "url": "https://publications.europa.eu/resource/celex/02024R1689-20260727",
+    "licence": "Reuse authorised, source acknowledged (Commission Decision 2011/833/EU)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from Publications Office of the European Union on 2026-11-18. Only the official publication is legally binding."
+}

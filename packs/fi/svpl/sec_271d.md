@@ -1,0 +1,9 @@
+# Laki sähköisen viestinnän palveluista 271 d § — Julkisesti säännellyn satelliittipalvelun alihankkija
+
+Julkisesti säännellyn satelliittipalvelun tarjoaja voi käyttää tehtävässään alihankkijaa. Alihankinnan laajuuden tulee rajoittua vain välttämättömään. Alihankkijaa voidaan käyttää muutoinkin vain siinä laajuudessa, että palvelun tarjoamisen hallinta, ohjaus ja valvonta säilyvät palvelutuottajalla ja että julkisesti säännellyn satelliittipalvelun turvallisuus tai palvelun tarjoamisen jatkuvuus ei vaarannu. Alihankkijan käyttämisestä on ilmoitettava etukäteen Liikenne- ja viestintävirastolle.
+
+Julkisesti säännellyn satelliittipalvelun tarjoaja vastaa alihankkijan työstä kuin omastaan. Julkisesti säännellyn satelliittipalvelun tarjoajan on varmistettava, että alihankkijalla on riittävät taloudelliset edellytykset, tekninen suorituskyky ja ammatillinen pätevyys alihankinnan toteuttamiseen sekä että alihankinta ei vaaranna kansallista turvallisuutta. Alihankkijan on täytettävä julkisesti säännellyn satelliittipalvelun turvallisuutta, valmiutta, varautumista ja jatkuvuutta koskevat vaatimukset. Alihankkijan toimeksiantosopimuksessa on erityisesti varmistettava normaaliolojen häiriötilanteiden ja poikkeustilanteiden hallintamenettelyt.
+
+Alihankkijan palveluksessa olevaan henkilöön, joka suorittaa julkisesti säänneltyyn satelliittipalveluun liittyviä tehtäviä, vaaditaan tehtävien edellyttämää nuhteettomuutta ja luotettavuutta, joka voidaan tarvittaessa selvittää turvallisuusselvityslain mukaisesti. Alihankkijan palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan julkisesti säänneltyyn satelliittipalveluun liittyviä tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.
+
+Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä julkisesti säännellyn satelliittipalvelun tarjoajan alihankinnan käyttämisestä ja alihankkijasta.

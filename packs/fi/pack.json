@@ -1,0 +1,38 @@
+{
+  "id": "fi",
+  "kind": "country",
+  "country": "FI",
+  "title": "Finland: data protection, spam and cookie laws",
+  "language": "fi",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "tietosuojalaki",
+      "name": "Tietosuojalaki",
+      "aliases": [
+        "Tietosuojalaki 1050/2018",
+        "Finnish Data Protection Act"
+      ],
+      "officialId": "2018/1050",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/2018/1050"
+    },
+    {
+      "id": "svpl",
+      "name": "Laki sähköisen viestinnän palveluista",
+      "aliases": [
+        "SVPL",
+        "917/2014",
+        "Act on Electronic Communications Services (Finland)"
+      ],
+      "officialId": "2014/917",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/2014/917"
+    }
+  ],
+  "source": {
+    "name": "Finlex (Ministry of Justice, Finland)",
+    "url": "https://opendata.finlex.fi/",
+    "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from Finlex (Ministry of Justice, Finland) on 2026-11-18. Only the official publication is legally binding."
+}

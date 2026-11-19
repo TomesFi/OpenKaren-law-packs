@@ -1,0 +1,7 @@
+# Laki sähköisen viestinnän palveluista 53 a § — Ainoastaan tukkumarkkinoilla toimivalle huomattavan markkinavoiman yritykselle asetettavat velvollisuudet
+
+Poiketen siitä, mitä 53 §:n 1 momentissa säädetään, Liikenne- ja viestintävirasto voi päätöksellään asettaa ainoastaan tukkumarkkinoilla toimivalle huomattavan markkinavoiman yritykselle ainoastaan 56 §:n 3 momentissa ja 61, 67 ja 68 §:ssä sekä 71 §:n 2 momentin 3 kohdassa tarkoitettuja velvollisuuksia, jos ne ovat perusteltuja markkina-analyysin ja ainoastaan tukkumarkkinoilla toimivan huomattavan markkinavoiman yrityksen toimintaa koskevan ennakkoarvioinnin perusteella.
+
+Liikenne- ja viestintäviraston on muutettava 1 momentissa tarkoitettua päätöstä, jos sen perusteena olevissa seikoissa tapahtuu merkityksellisiä muutoksia. Mainitussa momentissa tarkoitettujen yritysten on ilmoitettava Liikenne- ja viestintävirastolle merkityksellisistä muutoksista ilman aiheetonta viivästystä.
+
+Liikenne- ja viestintäviraston on lisäksi muutettava 1 momentissa tarkoitettua päätöstä, jos se ainoastaan tukkumarkkinoilla toimivan huomattavan markkinavoiman yrityksen asiakkailleen tarjoamien ehtojen ja edellytysten perusteella arvioi, että on syntynyt tai voi todennäköisesti syntyä käyttäjiin haitallisesti vaikuttavia kilpailuongelmia sekä tarvittaessa asetettava päätöksellään yritykselle 1 momentissa tarkoitettujen velvollisuuksien lisäksi 56 §:n 1 ja 2 momentissa sekä 69–71 ja 74 §:ssä tarkoitettuja velvollisuuksia.

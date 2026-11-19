@@ -1,0 +1,3 @@
+# Marknadsföringslag 20 a § — 20 a §
+
+Vid marknadsföring av informationssamhällets tjänster med elektronisk post får mottagaren inte uppmanas att besöka webbplatser vars marknadsföring strider mot 9 § eller 10 § tredje stycket.

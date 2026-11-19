@@ -1,0 +1,38 @@
+{
+  "id": "nl",
+  "kind": "country",
+  "country": "NL",
+  "title": "Netherlands: data protection, spam and cookie laws",
+  "language": "nl",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "uavg",
+      "name": "Uitvoeringswet Algemene verordening gegevensbescherming",
+      "aliases": [
+        "UAVG",
+        "Dutch GDPR Implementation Act (UAVG)"
+      ],
+      "officialId": "BWBR0040940",
+      "url": "https://wetten.overheid.nl/BWBR0040940"
+    },
+    {
+      "id": "tw",
+      "name": "Telecommunicatiewet",
+      "aliases": [
+        "Tw",
+        "Telecommunicatiewet 1998",
+        "Dutch Telecommunications Act"
+      ],
+      "officialId": "BWBR0009950",
+      "url": "https://wetten.overheid.nl/BWBR0009950"
+    }
+  ],
+  "source": {
+    "name": "wetten.overheid.nl (KOOP)",
+    "url": "https://repository.officiele-overheidspublicaties.nl/",
+    "licence": "No copyright (Auteurswet article 11)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from wetten.overheid.nl (KOOP) on 2026-11-18. Only the official publication is legally binding."
+}

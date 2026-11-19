@@ -1,0 +1,27 @@
+{
+  "id": "eu-gdpr",
+  "kind": "eu",
+  "country": null,
+  "title": "General Data Protection Regulation (GDPR)",
+  "language": "en",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "gdpr",
+      "name": "GDPR",
+      "aliases": [
+        "General Data Protection Regulation",
+        "Regulation (EU) 2016/679"
+      ],
+      "officialId": "32016R0679",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    }
+  ],
+  "source": {
+    "name": "Publications Office of the European Union",
+    "url": "https://publications.europa.eu/resource/celex/02016R0679-20160504",
+    "licence": "Reuse authorised, source acknowledged (Commission Decision 2011/833/EU)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from Publications Office of the European Union on 2026-11-18. Only the official publication is legally binding."
+}

@@ -1,0 +1,3 @@
+# Marknadsföringslag 45 a § — 45 a §
+
+Konsumentombudsmannen får bestämma att ett beslut om föreläggande enligt 41 a, 42, 43 eller 44 § ska gälla omedelbart.

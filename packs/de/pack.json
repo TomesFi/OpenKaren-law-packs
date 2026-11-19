@@ -1,0 +1,48 @@
+{
+  "id": "de",
+  "kind": "country",
+  "country": "DE",
+  "title": "Germany: data protection, spam and cookie laws",
+  "language": "de",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "bdsg",
+      "name": "Bundesdatenschutzgesetz",
+      "aliases": [
+        "BDSG",
+        "Federal Data Protection Act (BDSG)"
+      ],
+      "officialId": "bdsg_2018",
+      "url": "https://www.gesetze-im-internet.de/bdsg_2018/"
+    },
+    {
+      "id": "tdddg",
+      "name": "Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz",
+      "aliases": [
+        "TDDDG",
+        "TTDSG",
+        "Telecommunications Digital Services Data Protection Act (TDDDG)"
+      ],
+      "officialId": "ttdsg",
+      "url": "https://www.gesetze-im-internet.de/ttdsg/"
+    },
+    {
+      "id": "uwg",
+      "name": "Gesetz gegen den unlauteren Wettbewerb",
+      "aliases": [
+        "UWG",
+        "Act against Unfair Competition (UWG)"
+      ],
+      "officialId": "uwg_2004",
+      "url": "https://www.gesetze-im-internet.de/uwg_2004/"
+    }
+  ],
+  "source": {
+    "name": "gesetze-im-internet.de (Federal Ministry of Justice)",
+    "url": "https://www.gesetze-im-internet.de/",
+    "licence": "Official work without copyright (§ 5 UrhG)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from gesetze-im-internet.de (Federal Ministry of Justice) on 2026-11-18. Only the official publication is legally binding."
+}

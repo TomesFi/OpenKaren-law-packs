@@ -1,0 +1,50 @@
+{
+  "id": "se",
+  "kind": "country",
+  "country": "SE",
+  "title": "Sweden: data protection, spam and cookie laws",
+  "language": "sv",
+  "version": "2026-11-18",
+  "laws": [
+    {
+      "id": "dataskyddslagen",
+      "name": "Lag (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning",
+      "aliases": [
+        "Dataskyddslagen",
+        "Lag (2018:218)",
+        "Swedish Data Protection Act"
+      ],
+      "officialId": "2018:218",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018-218_sfs-2018-218.html"
+    },
+    {
+      "id": "lek",
+      "name": "Lag (2022:482) om elektronisk kommunikation",
+      "aliases": [
+        "LEK",
+        "Lag (2022:482) om elektronisk kommunikation",
+        "Swedish Electronic Communications Act"
+      ],
+      "officialId": "2022:482",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022-482_sfs-2022-482.html"
+    },
+    {
+      "id": "mfl",
+      "name": "Marknadsföringslag",
+      "aliases": [
+        "MFL",
+        "Marknadsföringslagen",
+        "Swedish Marketing Act"
+      ],
+      "officialId": "2008:486",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2008-486_sfs-2008-486.html"
+    }
+  ],
+  "source": {
+    "name": "Riksdagen (data.riksdagen.se)",
+    "url": "https://data.riksdagen.se/",
+    "licence": "No copyright (upphovsrättslagen 1 kap. 9 §)",
+    "retrieved": "2026-11-18"
+  },
+  "notice": "Unofficial copy made from Riksdagen (data.riksdagen.se) on 2026-11-18. Only the official publication is legally binding."
+}

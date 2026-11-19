@@ -1,0 +1,7 @@
+# Lag (2022:482) om elektronisk kommunikation 9 kap. 6 a § — 9 kap. 6 a §
+
+Trafikuppgifter får behandlas om uppgifterna behövs vid åtgärder som krävs för att fullgöra skyldigheten i 4 kap. 12 §. Uppgifterna får behandlas endast i den utsträckning och under den tid som är nödvändig för ändamålet. De ska därefter genast utplånas.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+1. vilka uppgifter som får behandlas enligt första stycket, och
+2. hur länge uppgifterna får behandlas innan de ska utplånas.
