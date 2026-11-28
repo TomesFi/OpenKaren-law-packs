@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-28",
   "packs": [
     {
       "id": "at",
@@ -7,10 +7,10 @@
       "country": "AT",
       "title": "Austria: data protection, spam and cookie laws",
       "language": "de",
-      "version": "2026-11-18",
-      "size": 335805,
-      "sha256": "9696753ab92ad9a9a7ca16a82658d4a04fcef752104c08446ca10fe03689c82e",
-      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/at-2026-11-18/at-2026-11-18.zip"
+      "version": "2026-11-28",
+      "size": 335832,
+      "sha256": "03a4db3819629885a8ea8a1691f4492b3407c4398737965988f0bdf3bbbe8c68",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/at-2026-11-28/at-2026-11-28.zip"
     },
     {
       "id": "de",
@@ -18,10 +18,10 @@
       "country": "DE",
       "title": "Germany: data protection, spam and cookie laws",
       "language": "de",
-      "version": "2026-11-18",
-      "size": 163489,
-      "sha256": "aa79a65c9b62b38f155b93072c9aaad5dfc77b9da2d6fb05822dbbe73262f9e3",
-      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/de-2026-11-18/de-2026-11-18.zip"
+      "version": "2026-11-28",
+      "size": 163585,
+      "sha256": "bd50b8becaced98476c82c43856b92ffc5a3e41c89d9f4a6195ea61088c1889a",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/de-2026-11-28/de-2026-11-28.zip"
     },
     {
       "id": "eu-ai-act",
@@ -84,10 +84,10 @@
       "country": "FI",
       "title": "Finland: data protection, spam and cookie laws",
       "language": "fi",
-      "version": "2026-11-18",
-      "size": 340859,
-      "sha256": "2ffa14a05512bfd368221521f15010a0f19633912acc83203d1c2ef7a5118b6a",
-      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/fi-2026-11-18/fi-2026-11-18.zip"
+      "version": "2026-11-28",
+      "size": 340153,
+      "sha256": "a44d8e4777a83ea0842d4000abd8826ec0e4730841f570c11cf81a3eee41e5f7",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/fi-2026-11-28/fi-2026-11-28.zip"
     },
     {
       "id": "nl",
@@ -95,10 +95,10 @@
       "country": "NL",
       "title": "Netherlands: data protection, spam and cookie laws",
       "language": "nl",
-      "version": "2026-11-18",
-      "size": 304142,
-      "sha256": "9b73925cf54907546920680ed8cbfaf0fdbc05ebe0ffc0c4017b9dcda10d97a0",
-      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/nl-2026-11-18/nl-2026-11-18.zip"
+      "version": "2026-11-28",
+      "size": 302038,
+      "sha256": "6053494bd7e86896fb09f79e6604d7f5175083e7ed528498520f4ede710bdfdf",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/nl-2026-11-28/nl-2026-11-28.zip"
     },
     {
       "id": "se",
@@ -106,10 +106,10 @@
       "country": "SE",
       "title": "Sweden: data protection, spam and cookie laws",
       "language": "sv",
-      "version": "2026-11-18",
-      "size": 203056,
-      "sha256": "d705e3b5e7707d3ce9c112a15bc329a037f0cf7019a0bf102f5960d4c857a0f8",
-      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/se-2026-11-18/se-2026-11-18.zip"
+      "version": "2026-11-28",
+      "size": 202686,
+      "sha256": "24888059581e7cdd85ec5ee9180eec340864d69a6fd5819de2f44e2113cf867b",
+      "url": "https://github.com/TomesFi/OpenKaren-law-packs/releases/download/se-2026-11-28/se-2026-11-28.zip"
     }
   ]
 }
